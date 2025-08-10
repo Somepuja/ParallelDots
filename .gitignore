@@ -1,0 +1,11 @@
+data/
+outputs/
+tempdir/
+
+__pycache__/
+
+sam2_hiera_t.yaml
+sam2_hiera_tiny.pt
+
+
+
